@@ -1,0 +1,144 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Ortiz-Kovacek",
+      "price": 3386,
+      "image": "https://robohash.org/suntpossimusqui.png?size=70x50&set=set1",
+      "city": "Bayog"
+    },
+    {
+      "id": 2,
+      "name": "Leannon LLC",
+      "price": 1054,
+      "image": "https://robohash.org/dictasedcumque.png?size=70x50&set=set1",
+      "city": "Njurunda"
+    },
+    {
+      "id": 3,
+      "name": "Christiansen-Morissette",
+      "price": 152,
+      "image": "https://robohash.org/esseomnisdolor.png?size=70x50&set=set1",
+      "city": "Barrinha"
+    },
+    {
+      "id": 4,
+      "name": "Stanton LLC",
+      "price": 3728,
+      "image": "https://robohash.org/voluptatibusitaqueet.png?size=70x50&set=set1",
+      "city": "Krzeszów"
+    },
+    {
+      "id": 5,
+      "name": "Ernser, O'Conner and Wunsch",
+      "price": 3027,
+      "image": "https://robohash.org/quisimpeditaccusamus.png?size=70x50&set=set1",
+      "city": "Newton"
+    },
+    {
+      "id": 6,
+      "name": "Will, Wisoky and Parisian",
+      "price": 4185,
+      "image": "https://robohash.org/similiqueenimquia.png?size=70x50&set=set1",
+      "city": "Muurla"
+    },
+    {
+      "id": 7,
+      "name": "Funk-Schneider",
+      "price": 3214,
+      "image": "https://robohash.org/debitisadipiscidoloremque.png?size=70x50&set=set1",
+      "city": "Kalodu"
+    },
+    {
+      "id": 8,
+      "name": "Beatty LLC",
+      "price": 1674,
+      "image": "https://robohash.org/nisitemporalibero.png?size=70x50&set=set1",
+      "city": "Virden"
+    },
+    {
+      "id": 9,
+      "name": "Rau-Predovic",
+      "price": 1353,
+      "image": "https://robohash.org/doloremsuntrerum.png?size=70x50&set=set1",
+      "city": "Chengji"
+    },
+    {
+      "id": 10,
+      "name": "Hessel, Stanton and Rogahn",
+      "price": 2054,
+      "image": "https://robohash.org/natusenimcumque.png?size=70x50&set=set1",
+      "city": "Shencun"
+    },
+    {
+      "id": 11,
+      "name": "Pfeffer-Hermann",
+      "price": 3393,
+      "image": "https://robohash.org/nihilipsumeum.png?size=70x50&set=set1",
+      "city": "Dřiteň"
+    },
+    {
+      "id": 12,
+      "name": "Farrell Inc",
+      "price": 2319,
+      "image": "https://robohash.org/temporeaab.png?size=70x50&set=set1",
+      "city": "Vicente Guerrero"
+    },
+    {
+      "id": 13,
+      "name": "Parker and Sons",
+      "price": 3861,
+      "image": "https://robohash.org/nesciuntquiavoluptatem.png?size=70x50&set=set1",
+      "city": "Tanahmerah"
+    },
+    {
+      "id": 14,
+      "name": "Tillman LLC",
+      "price": 362,
+      "image": "https://robohash.org/blanditiisutvoluptas.png?size=70x50&set=set1",
+      "city": "Isojoki"
+    },
+    {
+      "id": 15,
+      "name": "Wolff, Hermann and Ryan",
+      "price": 1170,
+      "image": "https://robohash.org/corporisvelvoluptas.png?size=70x50&set=set1",
+      "city": "Xinxu"
+    },
+    {
+      "id": 16,
+      "name": "Zulauf Group",
+      "price": 529,
+      "image": "https://robohash.org/providentautipsum.png?size=70x50&set=set1",
+      "city": "Sakai-nakajima"
+    },
+    {
+      "id": 17,
+      "name": "Mitchell Group",
+      "price": 785,
+      "image": "https://robohash.org/rerumsuntrerum.png?size=70x50&set=set1",
+      "city": "Barroso"
+    },
+    {
+      "id": 18,
+      "name": "Macejkovic-Zemlak",
+      "price": 741,
+      "image": "https://robohash.org/erroriustonihil.png?size=70x50&set=set1",
+      "city": "Moita"
+    },
+    {
+      "id": 19,
+      "name": "Pfeffer-Grady",
+      "price": 2771,
+      "image": "https://robohash.org/faceredictavoluptatum.png?size=70x50&set=set1",
+      "city": "Nagykanizsa"
+    },
+    {
+      "id": 20,
+      "name": "Bartell and Sons",
+      "price": 2735,
+      "image": "https://robohash.org/excepturiperspiciatisvel.png?size=70x50&set=set1",
+      "city": "Bongsri"
+    }
+  ]
+}
